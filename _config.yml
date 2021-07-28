@@ -2,7 +2,7 @@
 title: zwx的个人网站
 SEOTitle: 计算数学与机器学习
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: zhangwenxuan17@mails.ucas.ac.cn
 description: 这里是description
 keyword: 这里是keyword
 url: "https://mathzwx.github.io"          # your host, for absolute URL
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: mathzwx.github.io    #仓库名称
+  owner: mathzwx    #github用户名
+  admin: mathzwx
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
